@@ -125,3 +125,126 @@ nav h1 {
     border-radius: 16px;
     background: rgba(255, 255, 255, 1);
 }
+
+
+
+.vision-section {
+    margin-top: 80px;
+}
+
+
+.vision-title {
+    color: rgba(14, 14, 14, 1);
+
+    font-family: Fira Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.vision-cards {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    align-items: center;
+
+}
+
+.vision-card1 {
+/* Frame 2087325495 */
+
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 32px;
+box-sizing: border-box;
+border-radius: 16px;
+background: rgba(84, 144, 245, 0.2);
+
+}
+
+.vision-card1 button {
+background: rgba(84, 144, 245, 0.2);
+    border-radius: 8px;
+    
+    padding: 17px 34px 17px 34px;
+    color: #FFF;
+
+    padding: 17px 34px 17px 34px;
+
+    font-weight: 600;
+    font-size: 18px;
+
+    border: solid 1px;
+}
+
+
+.vision-card2 {
+/* Frame 2087325495 */
+
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 32px;
+box-sizing: border-box;
+border-radius: 16px;
+background: rgba(198, 228, 214, 1);
+
+}
+
+.vision-card2 button {
+background: rgba(9, 161, 92, 1);
+    border-radius: 8px;
+    
+    padding: 17px 34px 17px 34px;
+    color: #FFF;
+
+    padding: 17px 34px 17px 34px;
+
+    font-weight: 600;
+    font-size: 18px;
+
+    border: solid 1px;
+}
+
+.vision-card3 {
+/* Frame 2087325495 */
+
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 32px;
+box-sizing: border-box;
+border-radius: 16px;
+background: rgba(247, 235, 207, 1);
+
+}
+
+.vision-card3 button {
+background: rgba(255, 194, 57, 1);
+    border-radius: 8px;
+    
+    padding: 17px 34px 17px 34px;
+    color: #FFF;
+
+    padding: 17px 34px 17px 34px;
+
+    font-weight: 600;
+    font-size: 18px;
+
+    border: solid 1px;
+}
