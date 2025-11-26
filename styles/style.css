@@ -271,3 +271,50 @@ background: rgba(255, 194, 57, 1);
         letter-spacing: 0%;
         text-align: left;
 }
+
+.opinions-section {
+    margin-top: 80px;
+}
+
+.opinion-title {
+    color: rgba(14, 14, 14, 1);
+
+    font-family: Fira Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.opinion-in{
+
+padding: 32px;
+
+border-radius: 16px;
+background: rgb(245, 243, 243);
+}
+
+.opinion-cards {
+
+height: 72px;
+/* Auto layout */
+display: flex;
+align-items: center;
+justify-content: space-around;
+color: rgba(14, 14, 14, 1);
+
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+gap: 24;
+padding: 24px;
+
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+background: rgba(198, 228, 214, 1);
+
+}
